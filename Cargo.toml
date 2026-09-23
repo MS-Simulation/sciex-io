@@ -5,7 +5,7 @@ edition = "2021"
 rust-version = "1.84"
 license = "MIT"
 description = "SCIEX .wiff acquisition-scheme reader on top of timsim-types."
-repository = "https://github.com/theGreatHerrLebert/sciex-io"
+repository = "https://github.com/MS-Simulation/sciex-io"
 
 [dependencies]
 # ONLY the zero-dep acquisition-scheme leaf: sciex-io builds an AcquisitionScheme through its public API
